@@ -1,0 +1,29 @@
+.slider {
+    max-width: 1300px; 
+    margin: 0 auto; 
+}
+
+.slider img {
+    height: 300px; 
+    object-fit: cover; 
+}
+
+h5{
+    color: #000;
+
+}
+p{
+    color:rgb(0, 1, 0);
+}
+
+.about{
+   
+}
+.about img{
+    height: 150px;
+    object-fit: cover;
+    width:1120px ;
+}
+.mt-5{
+    text-align: center;
+}
